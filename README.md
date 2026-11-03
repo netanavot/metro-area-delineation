@@ -155,6 +155,10 @@ The framework evaluates delineation across a continuous spectrum of scale parame
 │   ├── world_cities.csv                # 148,000 GeoNames cities with spatial binning
 │   ├── run_pipeline.sh                 # End-to-end execution script
 │   └── meta_*.json                     # Bounding boxes and grid dimensions per continent
+├── maps/                               # Final Interactive HTML Maps
+│   ├── global_metro_map.html           # Full worldwide interactive map with multi-threshold toggle
+│   ├── us_metro_map.html               # Final U.S. continental interactive map
+│   └── us_metro_map_v2_4pct.html       # U.S. 4% threshold interactive map
 └── data/                               # Pre-computed Deliverables & Results
     ├── us_metro_areas.csv              # Complete U.S. metro catalog (population, area, density, P95)
     ├── us_metro_areas.xlsx             # Styled Excel workbook of U.S. metro areas
@@ -171,8 +175,10 @@ The framework evaluates delineation across a continuous spectrum of scale parame
 ## Deliverables & Outputs
 
 All results are provided in both spreadsheet formats and interactive geographic visualizations:
-* **Interactive U.S. Metro Map (`data/us_metro_map.html`):** Explore every metropolitan area in the contiguous United States with color-coded boundaries, core peak markers, population statistics, and municipal anchor tags.
-* **Global Spreadsheets (`data/global_metro_areas_7pct.xlsx`):** Ranks every metro area across North America, South America, Europe, Africa, Asia, Oceania, and the Pacific Islands with core coordinates, population, land area, and threshold metrics.
+* **Worldwide Interactive Map ([`maps/global_metro_map.html`](maps/global_metro_map.html)):** Full-resolution global Leaflet visualization covering all 6 continents with dynamic multi-threshold layers (1%, 4%, 7%, 15%, 25%), popups with metro ranks, populations, and municipal anchors.
+* **U.S. Interactive Maps ([`maps/us_metro_map.html`](maps/us_metro_map.html)):** Explore every metropolitan area in the contiguous United States with color-coded boundaries, core peak markers, population statistics, and municipal anchor tags. Also includes the 4% threshold map ([`maps/us_metro_map_v2_4pct.html`](maps/us_metro_map_v2_4pct.html)).
+* **Global Spreadsheets ([`data/global_metro_areas_7pct.xlsx`](data/global_metro_areas_7pct.xlsx)):** Ranks every metro area across North America, South America, Europe, Africa, Asia, Oceania, and the Pacific Islands with core coordinates, population, land area, and threshold metrics.
+* **U.S. Deliverables ([`data/us_metro_areas.xlsx`](data/us_metro_areas.xlsx) and [`data/us_metro_areas.csv`](data/us_metro_areas.csv)):** Formatted Excel workbooks and CSV catalogs for all U.S. metro areas.
 
 ---
 
