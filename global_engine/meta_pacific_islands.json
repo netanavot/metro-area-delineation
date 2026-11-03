@@ -1,0 +1,18 @@
+{
+  "name": "pacific_islands",
+  "desc": "Polynesia, Micronesia, Samoa, Tonga, Tahiti, Cook Islands",
+  "rows": 6865,
+  "cols": 7801,
+  "r_offset": 9827,
+  "c_offset": 0,
+  "origin_lat": 7.20791684055942,
+  "origin_lon": -180.00791593130032,
+  "pixel_size_lat": 0.008333333299795073,
+  "pixel_size_lon": 0.00833333330032682,
+  "min_lat": -50.0,
+  "max_lat": 7.2,
+  "min_lon": -180.0,
+  "max_lon": -115.0,
+  "total_pop": 731248.4375,
+  "pop_cells": 6922
+}

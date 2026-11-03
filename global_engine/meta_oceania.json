@@ -1,0 +1,18 @@
+{
+  "name": "oceania",
+  "desc": "Australia, New Zealand, Tasmania, Melanesia",
+  "rows": 4981,
+  "cols": 14761,
+  "r_offset": 11951,
+  "c_offset": 28440,
+  "origin_lat": -10.49208308820532,
+  "origin_lon": 56.992083129994455,
+  "pixel_size_lat": 0.008333333299795073,
+  "pixel_size_lon": 0.00833333330032682,
+  "min_lat": -52.0,
+  "max_lat": -10.5,
+  "min_lon": 57.0,
+  "max_lon": 180.0,
+  "total_pop": 33835488.0,
+  "pop_cells": 791996
+}

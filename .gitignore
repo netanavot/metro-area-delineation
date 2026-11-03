@@ -1,0 +1,32 @@
+# Compiled binaries
+metro_analyzer
+metro_engine
+global_metro
+test_v2
+test_v3
+*.o
+*.obj
+*.exe
+*.dylib
+*.so
+
+# Raster and binary cache datasets (downloadable or generated via scripts)
+*.bin
+*.tif
+*.tiff
+*.zip
+cities1000.txt
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

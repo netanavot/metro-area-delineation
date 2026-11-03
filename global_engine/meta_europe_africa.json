@@ -1,0 +1,18 @@
+{
+  "name": "europe_africa",
+  "desc": "Europe, Africa, Middle East, Iceland, Madagascar",
+  "rows": 14401,
+  "cols": 9841,
+  "r_offset": 611,
+  "c_offset": 18600,
+  "origin_lat": 84.00791653147081,
+  "origin_lon": -25.007916545221462,
+  "pixel_size_lat": 0.008333333299795073,
+  "pixel_size_lon": 0.00833333330032682,
+  "min_lat": -36.0,
+  "max_lat": 84.0,
+  "min_lon": -25.0,
+  "max_lon": 57.0,
+  "total_pop": 2422563072.0,
+  "pop_cells": 16281142
+}

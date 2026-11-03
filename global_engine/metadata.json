@@ -1,0 +1,12 @@
+{
+  "rows": 10692,
+  "cols": 21601,
+  "origin_lon": -180.00791593130032,
+  "origin_lat": 89.0995831776456,
+  "pixel_size_lon": 0.01666666660065364,
+  "pixel_size_lat": 0.016666666599590145,
+  "total_population": 7840906752.0,
+  "scale_factor": 2,
+  "source_rows": 21384,
+  "source_cols": 43202
+}

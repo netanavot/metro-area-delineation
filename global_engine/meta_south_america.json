@@ -1,0 +1,18 @@
+{
+  "name": "south_america",
+  "desc": "South America, Galapagos, Falklands, Easter Island",
+  "rows": 8281,
+  "cols": 10801,
+  "r_offset": 9131,
+  "c_offset": 7800,
+  "origin_lat": 13.007916817216795,
+  "origin_lon": -115.00791618875111,
+  "pixel_size_lat": 0.008333333299795073,
+  "pixel_size_lon": 0.00833333330032682,
+  "min_lat": -56.0,
+  "max_lat": 13.0,
+  "min_lon": -115.0,
+  "max_lon": -25.0,
+  "total_pop": 433412128.0,
+  "pop_cells": 4769293
+}

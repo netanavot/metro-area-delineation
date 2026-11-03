@@ -1,0 +1,18 @@
+{
+  "name": "north_america",
+  "desc": "North America, Central America, Caribbean, Greenland, Hawaii",
+  "rows": 9337,
+  "cols": 18601,
+  "r_offset": 491,
+  "c_offset": 0,
+  "origin_lat": 85.00791652744621,
+  "origin_lon": -180.00791593130032,
+  "pixel_size_lat": 0.008333333299795073,
+  "pixel_size_lon": 0.00833333330032682,
+  "min_lat": 7.2,
+  "max_lat": 85.0,
+  "min_lon": -180.0,
+  "max_lon": -25.0,
+  "total_pop": 592671744.0,
+  "pop_cells": 9429754
+}
